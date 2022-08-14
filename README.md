@@ -1,3 +1,3 @@
-# blog
+# Blog project
 
-this is a test repository for a blog project
+This is a test repository for a blog project. It does not have any content at the moment but eventually, there will be a guide for the project files here.
